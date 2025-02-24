@@ -1,4 +1,4 @@
-def maxsubarray(array):  # Поменяли nums на array
+def maxsubarray(array):
     maxsum = array[0]
     currentsum = array[0]
 
